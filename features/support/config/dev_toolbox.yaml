@@ -9,6 +9,7 @@ api:
   movies: "http://192.168.99.100:3002"
 users:
   cat_manager:
+      name: "Tony Stark"
       email: "tony@stark.com"
       pass: "pwd123"
   admin:
